@@ -29,3 +29,5 @@
 #### 4.2: [CNN Competition](https://colab.research.google.com/github/aewoessn/outreach-program-2021/blob/main/notebooks/4.2_CNNCompetition.ipynb)
 #### 4.3: [End of Day 2](https://colab.research.google.com/github/aewoessn/outreach-program-2021/blob/main/notebooks/4.3_EndOfDay2.ipynb)
 ---
+
+## The competition leaderboard can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUS48na12B9JbZ2p7IjWqk4oQEKqT0ljPpVdD8FMFN8BeN7HJutVN_Mo3_AbX-I7w8xVFKgxDfC0BR/pubhtml)
