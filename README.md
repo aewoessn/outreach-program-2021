@@ -1,8 +1,11 @@
-# Welcome to the University of Arkansas Biomedical Engineering Outreach Summer Camp!
+# Welcome to the University of Arkansas Biomedical Engineering Virtual Summer Camp!
 <img src=https://brand.uark.edu/_resources/images/UA_Logo_Horizontal.jpg width="400" height="96">
 
-## This module covering images, image processing, and artificial intelligence in python is brought to you by [Quinn Lab](https://kpquinn.hosted.uark.edu) and were authored by Alan Woessner and Kyle Quinn.
-## This module is broken up into "notebooks" that are run in Google Colab
+---
+## This module covers biomedical image analysis & artificial intelligence in python and is brought to you by [Quinn Lab](https://kpquinn.hosted.uark.edu).
+### All notebooks in this module were conceptualized and authored by Alan Woessner and Kyle Quinn.
+### This module is broken up into "notebooks" that are run in Google Colab
+---
 ## Here is an agenda with hyperlinks to each notebook:
 ### Day 1 Morning
 #### 1.1: [Outreach Introduction and Google Colab Orientation](https://colab.research.google.com/github/aewoessn/outreach-program-2021/blob/main/notebooks/1.1_OutreachIntroductionAndColabOrientation.ipynb)
